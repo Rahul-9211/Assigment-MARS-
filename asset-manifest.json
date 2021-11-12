@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Assignment-Mars-/static/css/main.4c57e5a7.chunk.css",
+    "main.js": "/Assignment-Mars-/static/js/main.e06934f2.chunk.js",
+    "main.js.map": "/Assignment-Mars-/static/js/main.e06934f2.chunk.js.map",
+    "runtime-main.js": "/Assignment-Mars-/static/js/runtime-main.7099cfe5.js",
+    "runtime-main.js.map": "/Assignment-Mars-/static/js/runtime-main.7099cfe5.js.map",
+    "static/css/2.d04939fc.chunk.css": "/Assignment-Mars-/static/css/2.d04939fc.chunk.css",
+    "static/js/2.1c07ee56.chunk.js": "/Assignment-Mars-/static/js/2.1c07ee56.chunk.js",
+    "static/js/2.1c07ee56.chunk.js.map": "/Assignment-Mars-/static/js/2.1c07ee56.chunk.js.map",
+    "static/js/3.4458c733.chunk.js": "/Assignment-Mars-/static/js/3.4458c733.chunk.js",
+    "static/js/3.4458c733.chunk.js.map": "/Assignment-Mars-/static/js/3.4458c733.chunk.js.map",
+    "index.html": "/Assignment-Mars-/index.html",
+    "static/css/2.d04939fc.chunk.css.map": "/Assignment-Mars-/static/css/2.d04939fc.chunk.css.map",
+    "static/css/main.4c57e5a7.chunk.css.map": "/Assignment-Mars-/static/css/main.4c57e5a7.chunk.css.map",
+    "static/js/2.1c07ee56.chunk.js.LICENSE.txt": "/Assignment-Mars-/static/js/2.1c07ee56.chunk.js.LICENSE.txt",
+    "static/media/about.64329bac.jpg": "/Assignment-Mars-/static/media/about.64329bac.jpg",
+    "static/media/App.css": "/Assignment-Mars-/static/media/black.49a54a3e.jpg",
+    "static/media/slick-theme.css": "/Assignment-Mars-/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7099cfe5.js",
+    "static/css/2.d04939fc.chunk.css",
+    "static/js/2.1c07ee56.chunk.js",
+    "static/css/main.4c57e5a7.chunk.css",
+    "static/js/main.e06934f2.chunk.js"
+  ]
+}
